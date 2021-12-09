@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you!
+
+I'm Alane Parisot, a French software engineer specialized in JavaScript development.
+
+Currently, I'm working as a lead frontend engineer and Scrum master for a [cutting-edge surgical robotics company](https://quantumsurgical.com/).
+
+On my free time, I'm the organizer of [MontpellierJS](https://www.meetup.com/MontpellierJS), a local JavaScript meetup group with more than 1200 members.
 
 <!--
 **alaneparisot/alaneparisot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
