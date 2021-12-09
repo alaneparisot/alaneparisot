@@ -1,4 +1,4 @@
-### Hi there 👋 Nice to meet you!
+### Hi there 👋
 
 I'm Alane Parisot, a French software engineer specialized in JavaScript development, living in [Montpellier, France](https://www.montpellier-france.com/).
 
