@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to meet you!
 
-I'm Alane Parisot, a French software engineer specialized in JavaScript development.
+I'm Alane Parisot, a French software engineer specialized in JavaScript development, living in [Montpellier, France](https://www.montpellier-france.com/).
 
 Currently, I'm working as a lead frontend engineer and Scrum master for a [cutting-edge surgical robotics company](https://quantumsurgical.com/).
 
