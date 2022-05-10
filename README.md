@@ -2,7 +2,7 @@
 
 I'm Alane Parisot, a French software engineer specialized in JavaScript development, living in [Montpellier, France](https://en.wikipedia.org/wiki/Montpellier).
 
-Currently, I'm working as a lead frontend engineer and Scrum master for a [cutting-edge surgical robotics company](https://quantumsurgical.com).
+Currently, I'm working as a lead frontend engineer for a [cutting-edge surgical robotics company](https://quantumsurgical.com).
 
 On my free time, I'm the organizer of [MontpellierJS](https://www.meetup.com/MontpellierJS), a local JavaScript meetup group with more than 1200 members.
 
